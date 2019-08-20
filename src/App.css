@@ -1,33 +1,36 @@
-.App {
-  text-align: center;
+.titre{
+  color: #00b39b;
 }
 
-.App-logo {
-  animation: App-logo-spin infinite 20s linear;
-  height: 40vmin;
-  pointer-events: none;
+.container { 
+  overflow: hidden; 
 }
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.Potato{
+  color: #00b39b;
 }
-
-.App-link {
-  color: #61dafb;
+.Color-1{
+  color:  #00b39b;
 }
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.Color-2{
+  color: #747474;
+}
+.Card-2{
+  background-color: #def7f5;
+}
+.card-body{
+  width: 100%;
+}
+.jumbotron{
+  background-color: aliceblue;
+  width: 30%
+}
+.Title-2{
+  color: #00b39b ; 
+}
+.Parag-2{
+  color: #747474;
+}
+.Footer{
+  color: #747474;
+  
 }
